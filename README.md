@@ -1,7 +1,6 @@
 # Open Source Audit: Python
 
 **Student:** Anusha Singh Rajput
-
 **Course:** Open Source Software (NGMC)  
 **Software Audited:** Python (PSF License)
 
